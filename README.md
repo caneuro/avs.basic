@@ -8,5 +8,3 @@ Title: Evolutionary continuities and discontinuities in affective voice signalin
 Authors: Sascha Frühholz, Joris Dietziker, Matthias Staib, Marine Bobin, Florence Steiner
 
 The repository is released under a Creative Commons Attribution-NonCommercial 4.0 International License, CC BY-NC-ND. 
-Re-use of the data for  
-
