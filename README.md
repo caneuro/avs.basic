@@ -1,7 +1,7 @@
 # avs.basic
 Affective Voice Signals (AVS): Basic Study
 
-The repository contains the data and material associated with the academic article:
+The repository contains data and material associated with the academic article:
 
 Frühholz S, Dietziker J, Staib M, Bobin M, Steiner F (submitted). Evolutionary continuities and discontinuities in affective voice signaling. 
 
