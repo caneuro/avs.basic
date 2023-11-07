@@ -5,4 +5,4 @@ The repository contains data and material associated with the academic article:
 
 [ANONYMIZED]
 
-The repository is released under a Creative Commons Attribution-NonCommercial 4.0 International License, CC BY-NC-ND. 
+The content of the repository is released under a Creative Commons Attribution-NonCommercial 4.0 International License, CC BY-NC-ND. 
