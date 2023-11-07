@@ -1,5 +1,5 @@
 # avs.basic
-Affective Voice Signals (AVS) / Basic Study
+Affective Voice Signals (AVS): Basic Study
 
 The repository contains the data and material associated with the academic article:
 
